@@ -1,8 +1,10 @@
 
 .navbar {
     font-weight: bold !important;
+    background-color: #C2C2C2 !important;
 }
 
 .logo {
     background-color: #525252;
+    margin: 0 auto;
 }
