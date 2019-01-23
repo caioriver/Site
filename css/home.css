@@ -1,0 +1,30 @@
+
+.border-lowblue {
+    margin-top: -2vh;
+    border: 1vh solid #707070;
+    border-radius: 1vh;
+    height: 48vh;
+}
+
+.card-foot { 
+    border: none;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 3vh;
+    margin-top: 8vh;
+}
+
+.title {
+    padding-top: 8vh;
+}
+
+.cards {
+padding-top: 14vh;
+}
+
+.col-sm {
+    width: auto !important;
+}
